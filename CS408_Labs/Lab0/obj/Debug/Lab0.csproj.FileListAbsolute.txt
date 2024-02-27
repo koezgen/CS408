@@ -1,0 +1,10 @@
+C:\Repositories\CS408\CS408_Labs\Lab0\bin\Debug\Lab0.exe.config
+C:\Repositories\CS408\CS408_Labs\Lab0\bin\Debug\Lab0.exe
+C:\Repositories\CS408\CS408_Labs\Lab0\bin\Debug\Lab0.pdb
+C:\Repositories\CS408\CS408_Labs\Lab0\obj\Debug\Lab0.csproj.AssemblyReference.cache
+C:\Repositories\CS408\CS408_Labs\Lab0\obj\Debug\Lab0.Properties.Resources.resources
+C:\Repositories\CS408\CS408_Labs\Lab0\obj\Debug\Lab0.csproj.GenerateResource.cache
+C:\Repositories\CS408\CS408_Labs\Lab0\obj\Debug\Lab0.csproj.CoreCompileInputs.cache
+C:\Repositories\CS408\CS408_Labs\Lab0\obj\Debug\Lab0.exe
+C:\Repositories\CS408\CS408_Labs\Lab0\obj\Debug\Lab0.pdb
+C:\Repositories\CS408\CS408_Labs\Lab0\obj\Debug\Lab0.Form1.resources
