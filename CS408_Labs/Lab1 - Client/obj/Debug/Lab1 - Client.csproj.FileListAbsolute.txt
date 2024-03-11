@@ -1,0 +1,10 @@
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\bin\Debug\Lab1 - Client.exe.config
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\bin\Debug\Lab1 - Client.exe
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\bin\Debug\Lab1 - Client.pdb
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\obj\Debug\Lab1 - Client.csproj.AssemblyReference.cache
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\obj\Debug\client.Form1.resources
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\obj\Debug\Lab1___Client.Properties.Resources.resources
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\obj\Debug\Lab1 - Client.csproj.GenerateResource.cache
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\obj\Debug\Lab1 - Client.csproj.CoreCompileInputs.cache
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\obj\Debug\Lab1 - Client.exe
+C:\Repositories\CS408\CS408_Labs\Lab1 - Client\obj\Debug\Lab1 - Client.pdb

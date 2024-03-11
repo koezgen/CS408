@@ -1,0 +1,37 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\bin\Debug\client.exe.config
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.exe
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.pdb
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\bin\Debug\client.exe
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\bin\Debug\client.pdb
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.Form1.resources
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\bin\Debug\client.exe.config
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.exe
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.pdb
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\bin\Debug\client.exe
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\bin\Debug\client.pdb
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.Form1.resources
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.Properties.Resources.resources
+D:\Users\suuser\Desktop\CS408\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\bin\Debug\client.exe.config
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\bin\Debug\client.exe
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\bin\Debug\client.pdb
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.Form1.resources
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.exe
+C:\Users\suuser\Desktop\Lab1.1\socket_programming_client_server\client\client\obj\Debug\client.pdb
