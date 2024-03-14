@@ -1,0 +1,10 @@
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\bin\Debug\Lab1 - Server.exe.config
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\bin\Debug\Lab1 - Server.exe
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\bin\Debug\Lab1 - Server.pdb
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\obj\Debug\Lab1 - Server.csproj.AssemblyReference.cache
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\obj\Debug\server.Form1.resources
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\obj\Debug\Lab1___Server.Properties.Resources.resources
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\obj\Debug\Lab1 - Server.csproj.GenerateResource.cache
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\obj\Debug\Lab1 - Server.csproj.CoreCompileInputs.cache
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\obj\Debug\Lab1 - Server.exe
+C:\Repositories\CS408\CS408_Labs\Lab1 - Server\obj\Debug\Lab1 - Server.pdb

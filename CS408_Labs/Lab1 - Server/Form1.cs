@@ -152,5 +152,10 @@ namespace server
                 }
             }
         }
+
+        private void logs_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

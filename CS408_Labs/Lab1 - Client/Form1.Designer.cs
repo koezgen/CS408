@@ -42,40 +42,40 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(89, 100);
+            this.label1.Location = new System.Drawing.Point(66, 80);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(37, 25);
+            this.label1.Size = new System.Drawing.Size(28, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "IP:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(69, 152);
+            this.label2.Location = new System.Drawing.Point(51, 122);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(57, 25);
+            this.label2.Size = new System.Drawing.Size(42, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "Port:";
             // 
             // textBox_ip
             // 
-            this.textBox_ip.Location = new System.Drawing.Point(134, 97);
+            this.textBox_ip.Location = new System.Drawing.Point(100, 77);
             this.textBox_ip.Name = "textBox_ip";
-            this.textBox_ip.Size = new System.Drawing.Size(172, 31);
+            this.textBox_ip.Size = new System.Drawing.Size(130, 26);
             this.textBox_ip.TabIndex = 2;
             // 
             // textBox_port
             // 
-            this.textBox_port.Location = new System.Drawing.Point(134, 152);
+            this.textBox_port.Location = new System.Drawing.Point(100, 122);
             this.textBox_port.Name = "textBox_port";
-            this.textBox_port.Size = new System.Drawing.Size(172, 31);
+            this.textBox_port.Size = new System.Drawing.Size(130, 26);
             this.textBox_port.TabIndex = 3;
             // 
             // button_connect
             // 
-            this.button_connect.Location = new System.Drawing.Point(134, 215);
+            this.button_connect.Location = new System.Drawing.Point(100, 172);
             this.button_connect.Name = "button_connect";
-            this.button_connect.Size = new System.Drawing.Size(139, 43);
+            this.button_connect.Size = new System.Drawing.Size(105, 34);
             this.button_connect.TabIndex = 4;
             this.button_connect.Text = "connect";
             this.button_connect.UseVisualStyleBackColor = true;
@@ -83,35 +83,36 @@
             // 
             // logs
             // 
-            this.logs.Location = new System.Drawing.Point(487, 100);
+            this.logs.Location = new System.Drawing.Point(366, 80);
             this.logs.Name = "logs";
-            this.logs.Size = new System.Drawing.Size(380, 498);
+            this.logs.Size = new System.Drawing.Size(286, 399);
             this.logs.TabIndex = 5;
             this.logs.Text = "";
             // 
             // textBox_message
             // 
             this.textBox_message.Enabled = false;
-            this.textBox_message.Location = new System.Drawing.Point(134, 528);
+            this.textBox_message.Location = new System.Drawing.Point(100, 423);
             this.textBox_message.Name = "textBox_message";
-            this.textBox_message.Size = new System.Drawing.Size(192, 31);
+            this.textBox_message.Size = new System.Drawing.Size(145, 26);
             this.textBox_message.TabIndex = 6;
+            this.textBox_message.TextChanged += new System.EventHandler(this.textBox_message_TextChanged);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(20, 531);
+            this.label3.Location = new System.Drawing.Point(15, 425);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(106, 25);
+            this.label3.Size = new System.Drawing.Size(78, 20);
             this.label3.TabIndex = 7;
             this.label3.Text = "Message:";
             // 
             // button_send
             // 
             this.button_send.Enabled = false;
-            this.button_send.Location = new System.Drawing.Point(332, 518);
+            this.button_send.Location = new System.Drawing.Point(249, 414);
             this.button_send.Name = "button_send";
-            this.button_send.Size = new System.Drawing.Size(130, 50);
+            this.button_send.Size = new System.Drawing.Size(98, 40);
             this.button_send.TabIndex = 8;
             this.button_send.Text = "send";
             this.button_send.UseVisualStyleBackColor = true;
@@ -119,9 +120,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(900, 689);
+            this.ClientSize = new System.Drawing.Size(1160, 551);
             this.Controls.Add(this.button_send);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox_message);
